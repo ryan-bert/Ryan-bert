@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I’m Ryan Bertschinger!
+I’m [Ryan Bertschinger](https://ryanbertschinger.com)!
 
 🚀 Final-year Computer Science student at Stellenbosch University, passionate about software development, machine learning, and problem-solving.
 
@@ -42,5 +42,5 @@ I’m Ryan Bertschinger!
 
 📫 How to Reach Me
 
-- LinkedIn 💼
-- GitHub 👨‍💻
+- [LinkedIn](https://www.linkedin.com/in/ryan-bertschinger-458035211/) 💼
+- [GitHub](https://github.com/ryan-bert) 👨‍💻
