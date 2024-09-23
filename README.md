@@ -42,3 +42,4 @@
 
 - [LinkedIn](https://www.linkedin.com/in/ryan-bertschinger-458035211/) 💼
 - [GitHub](https://github.com/ryan-bert) 👨‍💻
+- [My Website](https://ryanbertschinger.com) ✌️
