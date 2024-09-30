@@ -1,6 +1,6 @@
 ## Hi, I’m [Ryan Bertschinger](https://ryanbertschinger.com) 🦅
 
-🚀 Final-year Computer Science student at Stellenbosch University, passionate about software development, machine learning, and problem-solving.
+🚀 Final-year Computer Science student at Stellenbosch University, passionate about software development, data, machine learning, and problem-solving.
 
 🔧 Technologies & Tools
 
