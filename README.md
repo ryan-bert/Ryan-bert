@@ -4,11 +4,11 @@
 
 🔧 Technologies & Tools
 
-- Languages: Python 🐍, Java ☕, C, JavaScript 🌐, TypeScript, SQL, HTML5, CSS3
-- Web Development: React ⚛️, Flask 🌶️, Node.js 🖥️, Tailwind CSS 🎨
-- Data Science & Machine Learning: TensorFlow 🤖, Pandas 🐼, NumPy 🔢, Scikit-learn 📊, Seaborn 📈, Matplotlib 🧮
-- Databases: PostgreSQL 🐘, Firebase 🔥/Firestore
-- Version Control & Documentation: Git 📝, CI/CD Pipelines 🚀, Markdown ✍️, LaTeX 📚
+- **Languages**: Python 🐍, Java ☕, C, JavaScript 🌐, TypeScript, SQL, HTML5, CSS3
+- **Web Development**: React ⚛️, Flask 🌶️, Node.js 🖥️, Tailwind CSS 🎨
+- **Data Science & Machine Learning**: TensorFlow 🤖, Pandas 🐼, NumPy 🔢, Scikit-learn 📊, Seaborn 📈, Matplotlib 🧮
+- **Databases**: PostgreSQL 🐘, Firebase 🔥/Firestore
+- **Version Control & Documentation**: Git 📝, CI/CD Pipelines 🚀, Markdown ✍️, LaTeX 📚
 
 🏆 Projects
 
